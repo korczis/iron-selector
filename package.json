@@ -1,6 +1,7 @@
 {
   "name": "@polymer/iron-selector",
   "private": true,
+  "version": "0.0.1",
   "description": "Manages a set of elements that can be selected",
   "repository": {
     "type": "git",
